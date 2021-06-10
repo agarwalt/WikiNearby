@@ -1,7 +1,7 @@
 -f /usr/share/pip-wheels
 certifi==2019.6.16
 chardet==3.0.4
-Django==1.11.23
+Django==2.2.24
 django-appconf==1.0.3
 django-compressor==2.3
 idna==2.8
